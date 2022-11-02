@@ -1,13 +1,13 @@
+section {
+  height: 80vh;
+  border: 1px solid black;
+}
+p {
+  color: blue;
+}
 .red {
   color: red;
 }
-.blue {
-  color: blue;
-}
-p {
+#home {
   color: black;
-}
-#title {
-    font-weight: bold;
-    color:purple;
 }
